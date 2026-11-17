@@ -1,4 +1,4 @@
-# Timeline – Lab 27: YARA Rule Regression Testing
+# Timeline 
 
 ## Activity Timeline
 
